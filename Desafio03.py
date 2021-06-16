@@ -1,0 +1,6 @@
+print ('====== DESAFIO 03 ======')
+n1 = input('Digite o primeiro valor =  ')
+n2 = input('Digite o segundo valor =  ')
+resultado = int(n1) + int(n2)
+#print ('A soma entre o valor1 (',n1,') e o valor2 (',n2,') equivale a', resultado)
+print('A soma entre {} e {} vale {}'.format(n1, n2, resultado))

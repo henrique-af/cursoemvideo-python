@@ -1,0 +1,6 @@
+print ('====== DESAFIO 02 ======')
+print ('Digite em números, por favor!')
+dia  = input('Qual dia você nasceu? ')
+mes  = input('Ok, qual mês você nasceu? ')
+ano  = input('Ok, de qual ano? ')
+print ('Sua data de nascimento é ' + dia + '/' + mes + '/' + ano) 
